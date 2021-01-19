@@ -169,7 +169,7 @@
 	icon_state = "preciseka"
 	item_state = "kineticgun"
 	flight_x_offset = 16
-	flight_y_offset = 13
+	flight_y_offset = 12
 	overheat_time = 18
 	ammo_type = list(/obj/item/ammo_casing/energy/kinetic/premium/precise)
 	max_mod_capacity = 80
